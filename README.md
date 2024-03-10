@@ -2,7 +2,7 @@
   
   ### Hi, I’m @BlueDragonFire. 
   
-  #### I'm a programmer with an interest in how computers operate. I use [Linux] and I love learning about all aspects of Game Development from code to art.
+  #### I'm a programmer with an interest in data science and cybersecurity. I use [Linux] and I love learning about all aspects of Game Development from code to art.
   
 </div>
 &nbsp;
